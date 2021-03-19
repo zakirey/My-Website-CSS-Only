@@ -1,0 +1,141 @@
+.top {
+  background-color: #64c7de;
+  position: relative;
+  background-size: cover;
+}
+
+.mountain {
+}
+
+.m {
+  position: relative;
+  top: 0.1875rem;
+  max-width: 100%;
+}
+
+body{
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+}
+
+h1 {
+  color: #006a71;
+  margin: 0 auto 0 auto;
+  position: relative;
+  top: 2.6rem;
+  font-size: 5.625em;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #006a71;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  padding-bottom: 10px;
+}
+
+.developer {
+  font-weight: normal;
+}
+
+h3 {
+  color:  #3ca59d;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  line-height: 2;
+}
+
+.web {
+  width: 25%;
+  float: left;
+  margin-right: 34px;
+}
+
+.coding {
+  position: relative;
+  bottom: 45px;
+  width: 30%;
+  float: right;
+  margin-left: 10px;
+}
+
+
+.profile {
+  width: 58%;
+  margin: auto;
+}
+
+.contact-p {
+  width: 40%;
+  margin: 30px auto 50px;
+}
+
+hr {
+  margin: 90px auto;
+  border-style: dotted none none;
+  border-color: #eaf6f6;
+  border-width: thick;
+  width: 4%;
+}
+.skill-row {
+  text-align: left;
+  margin: 100px auto 100px auto;
+  width: 50%;
+}
+
+
+.middle {
+  margin: 100px 0;
+}
+
+.bottom {
+  background-color: #006a71;
+  padding: 50px 0 50px;
+}
+
+.btn {
+	box-shadow: 0px 0px 0px 2px #9fb4f2;
+	background-color:#006a71;
+	border-radius:10px;
+	border:1px solid #1145de;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-size:19px;
+	padding:12px 37px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+}
+.btn:hover {
+	background-color:#476e9e;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+.footer-link {
+  margin: 0 1% 0 2%;
+  color: #3ca59d;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: #eaf6f6;
+}
+
+.author {
+  color: #edf6f6;
+  margin-top: 2.5%;
+}
+
+.copyright {
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
